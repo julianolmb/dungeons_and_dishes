@@ -1,0 +1,35 @@
+body
+{ 
+    background-color:#C2B280;
+}
+
+h1
+{
+    text-align: center;
+    color: #70510c;
+}
+
+.maintext
+{
+    margin-left: 7cm;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    width: 63%;
+    
+}
+
+.pictures
+{
+    text-align: center;
+}
+
+.intro
+{
+    text-align: center;
+}
+
+footer
+{
+    text-align: center;
+}

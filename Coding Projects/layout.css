@@ -1,0 +1,134 @@
+div#container
+{
+width:1000px;
+height:1500px;
+background-color: yellow
+margin:0px auto;
+}
+
+div#header01
+{
+text-align:center;
+width:1000px;
+height:50px;
+background-color: sandybrown;
+}
+
+div#logo
+{
+Width:300px;
+height:50px;
+float:left;
+}
+
+div#title
+{
+Width:500px;
+height:50px;
+float:left;
+}
+
+div#search
+{   
+Width:200px;
+height:50px;
+float:left;
+}
+
+div#header02
+{
+text-align:center;
+width:1000px;
+height:30px;
+background-color: bisque;
+}
+
+div#navigationtop /* ask how to put a margin only on the text */
+{
+text-align: left;
+Width:600px;
+height:30px;
+float:left;
+}
+
+.inlinelists ul
+{
+list-style: none;
+
+padding: 2px;
+display: inline;
+}
+
+div#quote
+{ 
+text-align: right;
+width:400px;
+height:30px;
+float:left;
+}
+
+div#navigationmenu
+{
+text-align: left;
+width:200px;
+height:1320px;
+float:left;
+background-color:rosybrown
+}
+
+#menulist ul
+{
+list-style-type: none;
+margin: 0;
+padding: 2px;
+background-color: gray;
+}
+
+#menulist ul li
+{
+border-bottom: 2px solid white;
+}
+
+#menulist a { color: inherit; } 
+
+div#body
+{
+text-align:center;
+width:800px;
+height:1320px;
+float:left;
+background-color:#336699;
+}
+
+div#footer
+{
+text-align:center;
+Width:1000px;
+height:100px;
+background-color:#555555;
+float:left;
+}
+
+div#social
+{   
+Width:1000px;
+height:40px;
+float:left;
+background-color:paleturquoise;
+}
+
+div#navigationbottom
+{   
+Width:1000px;
+height:30px;
+float:left;
+background-color: violet;
+}
+
+div#copyright
+{   
+Width:1000px;
+height:30px;
+float:left;
+background-color: blue
+}
